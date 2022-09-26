@@ -1,0 +1,1 @@
+    Groupie Tracker Geolocalization consists on mapping the different concerts locations of a certain artist given by the Client.
